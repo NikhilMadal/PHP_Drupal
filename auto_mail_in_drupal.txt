@@ -1,0 +1,6 @@
+<div style='width: 720px; font-size: 15px; font-weight: bold; color: #000; margin: 40px auto ! important; padding: 10px; border: 1px solid;'>
+ <div style="width: 720px; margin: 40px auto ! important; padding: 10px; border: 0px solid;"> 
+<img src="https://ziuby.com/sites/default/files/ZIUBY-LOGO-SMALL.png" style="margin-left: 79%;"></br>
+<img src="https://ziuby.com/sites/default/files/Service_related_Images.png" alt="ziuby service" style="float: inherit;padding-top: 10px;margin-left:-7px;" /> </br>
+Thank you for contacting Team Ziuby. <br>
+This email confirms that we have received your request. Someone from our team will be in touch with you at the earliest.
